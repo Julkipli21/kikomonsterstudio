@@ -1,0 +1,13 @@
+<div class="d-flex justify-content-center justify-content-lg-start">
+            <a href="#about" class="btn-get-started">Get Started</a>
+            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+          </div>
+
+
+background-image:
+  linear-gradient(to bottom, rgba(156, 225, 203, 0.601), rgba(19, 117, 96, 0.782)),
+  url('../img/logo/background.jpg');
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
